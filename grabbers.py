@@ -3,10 +3,6 @@ import requests
 import structures
 from nicegui import ui
 
-base_auth_url = "https://www.bungie.net/en/OAuth/Authorize"
-placeholder_redirect = "https://www.google.com/"
-token_url = "https://www.bungie.net/platform/app/oauth/token/"
-
 HEADERS = {'X-API-KEY': os.getenv("bungie_token"), 'Content-Type': 'application/json'}
 
 class AccountStats():
