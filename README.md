@@ -2,7 +2,7 @@
 ## Summary ##
 This is a tool to create a resume based on various destiny 2 stats, such as raids, dungeons, and titles. It was made as a fun side project.
 The tool leverages the bungie API to get information about the player, translates and formats it, then sends it to gemini to create a summary.
-It now includes an actual GUI for the user to use instead of just creating a text file.
+It now includes an actual GUI for the user to use instead of just creating a text file (uses niceGUI).
 This is the version I aim to use for a frontend; it has been reconfigured from the original to not require a login.
 
 ## Necessities ##
