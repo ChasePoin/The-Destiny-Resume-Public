@@ -17,7 +17,7 @@ def main():
         # Create a button to submit name
         ui.button('Generate', on_click=lambda: handle_submit(text_input.value))
 
-        ui.link("GitHub", 'https://github.com/ChasePoin/The-Destiny-Resume').style('font-size: 200%; color: #FFFFFF')
+        ui.link("GitHub", 'https://github.com/ChasePoin/The-Destiny-Resume-Public').style('font-size: 200%; color: #FFFFFF')
     # Display the result
     result_label = ui.label().style('white-space: pre-wrap')
     # Define the function to handle the submit button click
