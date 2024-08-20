@@ -30,7 +30,7 @@ The code isn't perfect; the translator.py file function is very rough. There are
 * Cleaner code... (always)
 
 ## Images of the GUI ##
-# at rest #
+### at rest ###
 ![17e7dfe0390288d968bf2e771e6dbb10](https://github.com/user-attachments/assets/e6eac973-9554-48e0-99fe-6ee473fc4a13)
-# in action #
+### in action ###
 ![Screenshot 2024-08-19 111930](https://github.com/user-attachments/assets/057971ee-dd44-4b54-bf99-089da16e705e)
